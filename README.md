@@ -52,6 +52,6 @@ The SecuCode App requires that an Impinj R420 reader is available to the host ma
 
 When debugging, it is recommended that you use the fixed key mode as the debugger can cause the tag's SRAM to not be fully reset on start up.
 
-## Questions
+## Questions?
 
 * Bootloader, SecuCode App - Michael Chesser (michael.chesser@adelaide.edu.au)

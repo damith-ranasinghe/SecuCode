@@ -4,7 +4,7 @@ Source code and additional documentation for *SecuCode: Intrinsic PUF Entangled 
 
 ## Overview
 
-* `/demo`: Contains a video demonstrating the end-to-end
+* `/demo`: Contains a video demonstrating the end-to-end system.
 * `/experiments`: Raw data for hash and key derivation peformance tests.
 * `/src`
     - `/wisp5-base`: The WISP5 firmware forked from: https://github.com/wisp/wisp5/tree/e053c297d89913d8c78a08b69bc18cbbd22ad7af with modifications to support SecuCode (compiled as library)

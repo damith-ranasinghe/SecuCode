@@ -51,3 +51,7 @@ The SecuCode App requires that an Impinj R420 reader is available to the host ma
 4. Validate that firmware was successfully loaded by clicking the 'Inventory' button.
 
 When debugging, it is recommended that you use the fixed key mode as the debugger can cause the tag's SRAM to not be fully reset on start up.
+
+## Questions
+
+* Bootloader, SecuCode App - Michael Chesser (michael.chesser@adelaide.edu.au)
